@@ -24,9 +24,11 @@ Possessive（poss）表示所有格代词。例如：mijn = 我的，zijn = 他�
 
 ## 其他代词
 
-**die** [*pron*] that, those 那个；那些；那个人；那些人
+**het, 't** [1) art 2) pron] 1) the 2) it 1) 定冠词 2) 它
 
-**dat** [*pron*] that 那个
+**die** [*pron*] a) that, those b) that, who a) 那个，那些 b) 那个，谁
+
+**dat** [*pron*] that 那个（代词）
 
 **geen** [*pron*] no 没有
 
@@ -34,15 +36,19 @@ Possessive（poss）表示所有格代词。例如：mijn = 我的，zijn = 他�
 
 **dit** [*pron*] this 这个
 
-**zich** [*pron*] self 自己
+**deze** [*pron*] this, these 这个，这些
 
-**deze** [*pron*] this, these 这个；这些
+**al** [*pron*] all 所有
 
-**al** [*pron*] all 全部
+**zoiets** [*pron*] something 某事
+
+**allerlei** [*pron*] all kinds of 各种各样的
+
+**zulk** [*pron*] such 这样的
 
 **iets** [*pron*] something 某事
 
-**enkel** [*pron*] a few; single 少数；单个
+**enkel** [*pron*] a few, a single 几个，一个
 
 **wie** [*pron*] who 谁
 
@@ -50,16 +56,46 @@ Possessive（poss）表示所有格代词。例如：mijn = 我的，zijn = 他�
 
 **alles** [*pron*] everything 一切
 
-**niets** [*pron*] nothing 没有东西
+**niets** [*pron*] nothing 没有什么
 
-**elkaar** [*pron*] each other 彼此；互相
+**elkaar** [*pron*] each other 互相
 
-**zo’n** [*pron*] such a 这样的
+**zo’n** [*pron*] such a 这样一个
 
 **iedereen** [*pron*] everyone 每个人
 
-**men** [*pron*] one 人们
+**men** [*pron*] one, you 人们，你
 
-**zulk** [*pron*] such 这样的；如此的
+**iemand** [*pron*] someone 某人
+
+**enig** [*pron*] only 唯一的
+
+**sommige** [*pron*] some 一些
+
+**ieder** [*pron*] each 每个
+
+**niemand** [*pron*] nobody 没有人
+
+**welk** [*pron*] which 哪个
+
+**hetzelfde** [*pron*] the same 相同的
+
+**niks** [*pron*] nothing 没有什么
+
+**degene** [*pron*] the one, those 那个人
+
+**diezelfde** [*pron*] the very same 同一个
+
+**datzelfde** [*pron*] the same 同样的
+
+**eenzelfde** [*pron*] same 同一个
+
+**allerhande** [*pron*] all kinds of 各种各样的
+
+**mekaar** [*pron*] each other 互相
+
+**datgene** [*pron*] what 那个
+
+**diegene** [*pron*] he, she, those who 那个人，那些
 
 **gij** [*pron*] you (dial.) 你（方言）

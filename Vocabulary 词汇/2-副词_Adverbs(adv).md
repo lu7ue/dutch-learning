@@ -12,7 +12,7 @@ Adverbs (adv) 是副词，用来修饰动词、形容词或整个句子。表示
 
 **ook** [*adv*] also 也
 
-**er** [*adv*] there 那里；存在结构
+**er** [*adv*] there 那里
 
 **nog** [*adv*] still 仍然
 
@@ -20,7 +20,7 @@ Adverbs (adv) 是副词，用来修饰动词、形容词或整个句子。表示
 
 **dan** [*adv*] then 然后
 
-**wel** [*adv*] ~ rather 相当；的确
+**wel** [*adv*] ~ rather 相当，很
 
 **zo** [*adv*] so 如此
 
@@ -28,21 +28,111 @@ Adverbs (adv) 是副词，用来修饰动词、形容词或整个句子。表示
 
 **daar** [*adv*] there 那里
 
-**waar** [*adv*] where 在哪里
+**waar** [*adv*] where 哪里
 
-**toch** [*adv*] yet 然而；仍然
+**toch** [*adv*] yet 然而
 
-**maar** [*adv*] but, only, just 但是；仅仅
+**maar** [*adv*] but, only, just 但是，仅仅
 
 **alleen** [*adv*] alone 独自
 
 **weer** [*adv*] again 再次
 
-**af** [*adv*] off 离开；完成
+**af** [*adv*] off 离开，完成
 
 **dus** [*adv*] so 所以
 
-**eens** [*adv*] once; even 曾经；甚至
+**uiteraard** [*adv*] of course, naturally 当然
+
+**overal** [*adv*] everywhere 到处
+
+**eindelijk** [*adv*] finally 终于
+
+**telkens** [*adv*] each time 每次
+
+**eenmaal** [*adv*] a) just b) once a) 就是 b) 一次
+
+**straks** [*adv*] later 待会儿
+
+**ervoor** [*adv*] for it 为此
+
+**daarop** [*adv*] on it 在上面
+
+**tegenwoordig** [*adv*] nowadays 如今
+
+**vlak** [*adv*] right 正好
+
+**erin** [*adv*] in it 在里面
+
+**vanavond** [*adv*] tonight 今晚
+
+**erbij** [*adv*] there 在那里
+
+**alweer** [*adv*] again 再次
+
+**zomaar** [*adv*] just 就这样
+
+**helaas** [*adv*] unfortunately 不幸地
+
+**tegelijk** [*adv*] at the same time 同时
+
+**nergens** [*adv*] nowhere 无处
+
+**tenminste** [*adv*] at least 至少
+
+**eraan** [*adv*] with it 与之
+
+**ineens** [*adv*] suddenly 突然
+
+**mis** [*adv*] wrong 错误
+
+**ermee** [*adv*] with it 与之
+
+**waarvoor** [*adv*] what for 为什么
+
+**zover** [*adv*] so far 到目前为止
+
+**daarover** [*adv*] about it 关于它
+
+**vandaar** [*adv*] hence 因此
+
+**achteraf** [*adv*] afterwards 之后
+
+**vooruit** [*adv*] forward 向前
+
+**eruit** [*adv*] out 出去
+
+**min** [*adv*] minus 减
+
+**tegelijkertijd** [*adv*] at the same time 同时
+
+**anders** [*adv*] otherwise 否则
+
+**echter** [*adv*] however 然而
+
+**immers** [*adv*] indeed 确实
+
+**intussen** [*adv*] meanwhile 与此同时
+
+**liefst** [*adv*] preferably 宁可
+
+**minstens** [*adv*] at least 至少
+
+**binnenkort** [*adv*] shortly 不久
+
+**eveneens** [*adv*] also 同样地
+
+**reeds** [*adv*] already 已经
+
+**vrijwel** [*adv*] almost 几乎
+
+**zowat** [*adv*] about 大约
+
+**gisteravond** [*adv*] last night 昨晚
+
+**waarna** [*adv*] after which 之后
+
+**eens** [*adv*] once, (not) even 一次，甚至
 
 **mee** [*adv*] with 一起
 
@@ -64,13 +154,13 @@ Adverbs (adv) 是副词，用来修饰动词、形容词或整个句子。表示
 
 **nooit** [*adv*] never 从不
 
-**terug** [*adv*] back 回去
+**terug** [*adv*] back 回来
 
-**even** [*adv*] just 一下；刚刚
+**even** [*adv*] just 刚刚，一会儿
 
-**steeds** [*adv*] always 不断地
+**steeds** [*adv*] always 总是
 
-**toen** [*adv*] then 当时
+**toen** [*adv*] then 然后
 
 **eerst** [*adv*] first 首先
 
@@ -84,17 +174,17 @@ Adverbs (adv) 是副词，用来修饰动词、形容词或整个句子。表示
 
 **erg** [*adv*] very 非常
 
-**allemaal** [*adv*] all 全部
+**allemaal** [*adv*] all 所有
 
-**pas** [*adv*] only 才
+**pas** [*adv*] only 仅仅
 
-**helemaal** [*adv*] completely 完全
+**helemaal** [*adv*] completely 完全地
 
-**weg** [*adv*] gone 走开；不在了
+**weg** [*adv*] gone 离开
 
-**eigenlijk** [*adv*] actually 其实；实际上
+**eigenlijk** [*adv*] actually 实际上
 
-**eerder** [*adv*] sooner 更早；较早
+**eerder** [*adv*] sooner 更早
 
 **gisteren** [*adv*] yesterday 昨天
 
@@ -102,9 +192,9 @@ Adverbs (adv) 是副词，用来修饰动词、形容词或整个句子。表示
 
 **waarom** [*adv*] why 为什么
 
-**opnieuw** [*adv*] again 再次；重新
+**opnieuw** [*adv*] again 再次
 
-**daarom** [*adv*] therefore 因此；所以
+**daarom** [*adv*] therefore 因此
 
 **zeer** [*adv*] very 非常
 
@@ -112,196 +202,308 @@ Adverbs (adv) 是副词，用来修饰动词、形容词或整个句子。表示
 
 **genoeg** [*adv*] enough 足够
 
-**waarin** [*adv*] wherein 在其中；其中…的
+**waarin** [*adv*] wherein 在其中
 
-**bijvoorbeeld, bv.** [*adv*] for example 例如；比方说
+**bijvoorbeeld, bv.** [*adv*] for example 例如
 
-**meteen** [*adv*] immediately 立刻；马上
+**meteen** [*adv*] immediately 立刻
 
-**bovendien** [*adv*] also 此外；而且
+**bovendien** [*adv*] also 此外
 
-**graag** [*adv*] gladly, with pleasure 乐意地；很愿意
+**graag** [*adv*] gladly, with pleasure 乐意地
 
-**daarna** [*adv*] afterwards 之后；后来
+**daarna** [*adv*] afterwards 之后
 
-**ooit** [*adv*] one day 有一天；曾经
+**ooit** [*adv*] one day 有一天
 
-**slechts** [*adv*] only 仅仅；只
+**slechts** [*adv*] only 仅仅
 
-**inderdaad** [*adv*] indeed 的确；确实
+**inderdaad** [*adv*] indeed 确实
 
 **thuis** [*adv*] at home 在家
 
-**zowel** [*adv*] both 既…又…；两者都
+**zowel** [*adv*] both 两者都
+
+**daarmee** [*adv*] with it 与此
 
 **ongeveer** [*adv*] about 大约
 
-**trouwens** [*adv*] anyway 另外；顺便说
+**trouwens** [*adv*] anyway 反正
 
-**waarbij** [*adv*] in which 在其中；在…时
+**juist** [*adv*] really; on the contrary 确实，恰恰相反
 
-**juist** [*adv*] really; on the contrary 恰恰；正好；相反
+**waarvan** [*adv*] whose 谁的
 
-**daarvan** [*adv*] thereof 其中的；关于它的
+**waarop** [*adv*] on which 在哪个上面
 
-**waarop** [*adv*] on which 在其上
+**ervan** [*adv*] of it 它的
 
-**ervan** [*adv*] of it 它的；其中的
+**daarvoor** [*adv*] therefore, for that 为此
 
-**daarvoor** [*adv*] therefore; for that 为此；因此
+**daarbij** [*adv*] with it, besides 此外
 
-**daarbij** [*adv*] with it, besides 此外；而且
+**meestal** [*adv*] mostly 大多数
 
-**meestal** [*adv*] mostly 通常；大多
+**waardoor** [*adv*] as a result of which 因此
 
-**waarschijnlijk** [*adv*] probably 可能；大概
-
-**waardoor** [*adv*] as a result of which 因此；从而
-
-**waarmee** [*adv*] with which 用它
-
-**daardoor** [*adv*] therefore 因此；从而
+**waarschijnlijk** [*adv*] probably 可能
 
 **morgen** [*adv*] tomorrow 明天
 
-**liever** [*adv*] rather 宁愿；更想
+**liever** [*adv*] rather 宁愿
 
-**inmiddels** [*adv*] meanwhile 目前；与此同时
+**daarvan** [*adv*] thereof, from that 从中
 
-**overigens** [*adv*] anyway 另外；顺便说
+**inmiddels** [*adv*] meanwhile 同时
+
+**overigens** [*adv*] anyway 反正
 
 **nauwelijks** [*adv*] hardly 几乎不
 
-**blijkbaar** [*adv*] apparently 显然；看来
+**blijkbaar** [*adv*] apparently 显然
 
-**namelijk** [*adv*] namely 也就是；因为
+**namelijk** [*adv*] namely 即
 
-**ergens** [*adv*] somewhere 某个地方
+**ergens** [*adv*] somewhere 某处
 
-**vervolgens** [*adv*] then 然后；接着
+**vervolgens** [*adv*] then 然后
 
-**ondertussen** [*adv*] meanwhile 同时；在此期间
+**ondertussen** [*adv*] meanwhile 同时
 
-**wellicht** [*adv*] possibly, perhaps 可能；也许
+**wellicht** [*adv*] possibly, perhaps 也许
 
 **erop** [*adv*] on it 在上面
 
-**nogal** [*adv*] rather 相当；挺
+**nogal** [*adv*] rather 相当
 
-**uiteraard** [*adv*] of course 当然
+**zelden** [*adv*] rarely 很少
 
-**overal** [*adv*] everywhere 到处
+**uiterst** [*adv*] extremely 极其
 
-**eindelijk** [*adv*] finally 终于
+**voortaan** [*adv*] henceforth 今后
 
-**telkens** [*adv*] each time 每次
+**sindsdien** [*adv*] since 从那以后
 
-**daarin** [*adv*] therein 在其中
+**tenslotte** [*adv*] after all 毕竟
 
-**ervoor** [*adv*] for it 为此
+**weliswaar** [*adv*] admittedly 诚然
 
-**daarop** [*adv*] on it 在上面；随后
+**alsnog** [*adv*] yet 仍然
 
-**tegenwoordig** [*adv*] nowadays 现在；如今
+**hiermee** [*adv*] herewith 以此
 
-**eenmaal** [*adv*] just, once 反正；曾经一次
+**elders** [*adv*] elsewhere 在别处
 
-**straks** [*adv*] later 稍后
+**destijds** [*adv*] at the time 当时
 
-**regelmatig** [*adj, adv*] regular; regularly 经常地
+**plus** [*adv*] plus 加
 
-**vlak** [*adv*] right 紧挨着
+**daarentegen** [*adv*] on the other hand 另一方面
 
-**erin** [*adv*] in it 在里面
+**doorgaans** [*adv*] usually 通常
 
-**vanavond** [*adv*] tonight 今晚
+**anderzijds** [*adv*] on the other hand 另一方面
 
-**erbij** [*adv*] there; with it 在场；另外
+**vandaan** [*adv*] from 从
 
-**alweer** [*adv*] again 又；再一次
+**erover** [*adv*] about 关于
 
-**zomaar** [*adv*] just 随便地
+**voren** [*adv*] forward 向前
 
-**helaas** [*adv*] unfortunately 不幸地
+**voorheen** [*adv*] before 以前
 
-**tegelijk** [*adv*] at the same time 同时
+**tamelijk** [*adv*] fairly 相当地
 
-**nergens** [*adv*] nowhere 哪里都不
+**enerzijds** [*adv*] on the one hand 一方面
 
-**tenminste** [*adv*] at least 至少
+**allicht** [*adv*] probably 可能
 
-**eruit** [*adv*] out 出去
+**vlakbij** [*adv*] close 附近
 
-**eraan** [*adv*] with it; on it 对此
+**zozeer** [*adv*] so much 如此
 
-**ineens** [*adv*] suddenly 突然
+**hooguit** [*adv*] at most 最多
 
-**mis** [*adv*] wrong 错
+**achteraan** [*adv*] behind 在后面
 
-**ermee** [*adv*] with it 用它
+**volstrekt** [*adv*] absolutely 绝对
 
-**waarvoor** [*adv*] what for 为何
+**voorop** [*adv*] ahead 在前面
 
-**zover** [*adv*] so far 到那一步
+**onderuit** [*adv*] ~ sprawled 倒下
 
-**daarover** [*adv*] about it 关于它
+**ertoe** [*adv*] to 到那
 
-**vandaar** [*adv*] hence 因此
+**desnoods** [*adv*] if necessary 必要时
 
-**achteraf** [*adv*] afterwards 事后
+**nagenoeg** [*adv*] almost 几乎
 
-**vooruit** [*adv*] forward 向前
+**steevast** [*adv*] invariable 总是
 
-**tegelijkertijd** [*adv*] simultaneously 同时
+**vanochtend** [*adv*] this morning 今早
 
-**min** [*adv*] minus 减
+**desondanks** [*adv*] nevertheless 尽管如此
 
-**daarheen** [*adv*] there 去那边
+**vanochtend** [*adv*] this morning 今早
 
-**eventjes** [*adv*] quickly 一下
+**weleens** [*adv*] sometimes, ever 有时
 
-**hartstikke** [*adv*] completely 特别；非常
+**vlakbij** [*adv*] close 附近
 
-**sowieso** [*adv*] anyway 反正
+**hooguit** [*adv*] at most 最多
+
+**zozeer** [*adv*] so much 如此
+
+**ronduit** [*adv*] outright, simply 直率地
+
+**evengoed** [*adv*] as well 同样地
+
+**voorop** [*adv*] ahead 在前面
+
+**onderuit** [*adv*] ~ sprawled 倒下
+
+**ertoe** [*adv*] to 到那
+
+**desnoods** [*adv*] if necessary 必要时
+
+**nagenoeg** [*adv*] almost 几乎
+
+**steevast** [*adv*] invariable 总是
+
+**weleens** [*adv*] sometimes, ever 有时
+
+**vooraan** [*adv*] in front 在前面
+
+**bovenaan** [*adv*] at the top 在顶部
+
+**zolang** [*adv*] as long as 只要
+
+**pakweg** [*adv*] roughly 大约
+
+**indertijd** [*adv*] at the time 当时
+
+**herhaaldelijk** [*adv*] repeatedly 反复地
+
+**ietwat** [*adv*] somewhat 有点
+
+**andersom** [*adv*] vice versa 反之亦然
+
+**geregeld** [*adv*] regularly 经常
+
+**wederom** [*adv*] again 再次
+
+**allesbehalve** [*adv*] anything but 绝不
+
+**waartoe** [*adv*] to which 对那个
+
+**achterin** [*adv*] in the back 在后面
+
+**ongeacht** [*adv*] regardless 无论
+
+**onderaan** [*adv*] at the bottom 在底部
+
+**erna** [*adv*] after (it) 之后
+
+**uitermate** [*adv*] extremely 极其
+
+**zodoende** [*adv*] consequently 因此
+
+**daaronder** [*adv*] thereunder 在其下
+
+**erdoor** [*adv*] through it 通过它
+
+**eergisteren** [*adv*] day before yesterday 前天
+
+**alsmaar** [*adv*] ever 一直
+
+**hieruit** [*adv*] from this 从此
+
+**oftewel** [*conj*] i.e. 即
+
+**jegens** [*prep*] towards 对
+
+**tegenaan** [*adv*] against it, for it 对着它
+
+**vanwaar** [*adv*] from where, why 从哪里
+
+**daarbuiten** [*adv*] outside 在外面
+
+**hoelang** [*adv*] how long 多久
+
+**terzijde** [*adv*] aside 在旁边
+
+**nimmer** [*adv*] never 从不
+
+**achterop** [*adv*] on the back 在后面
+
+**zoal** [*adv*] what (kind of things) 诸如此类
+
+**überhaupt** [*adv*] anyway, at all 到底
+
+**hoeverre** [*adv*] to what extent 到什么程度
+
+**voorin** [*adv*] in (the) front 在前面
+
+**naartoe** [*adv*] to there 去那里
+
+**eventjes** [*adv*] quickly 很快地，一会儿
+
+**hartstikke** [*adv*] terribly 非常，极其
+
+**sowieso** [*adv*] anyway 无论如何，反正
+
+**gauw** [*adv*] soon, quickly 很快，迅速
 
 **vanmiddag** [*adv*] this afternoon 今天下午
 
-**vanochtend** [*adv*] this morning 今天早上
+**vanmorgen** [*adv*] this morning 今天早上
 
-**hoezo** [*adv*] why 为什么（怎么会）
+**tevoren** [*adv*] before 事先
 
-**binnen** [*adv*] inside 进来
+**enzovoort, enz., en zo** [*adv*] etc., and so on 等等
 
-**voordat** [*adv*] beforehand 事先
+**dadelijk** [*adv*] immediately 立刻，马上
 
-**enzovoort, enz.** [*adv*] etc. 等等
+**daarnet** [*adv*] just (now) 刚才
 
-**zonet** [*adv*] just now 刚刚
+**eraf** [*adv*] off 掉下，下来
 
-**veel** [*adv*] a lot 很多
+**zat** [*adv*] plenty 足够，非常
 
-**gisterenavond** [*adv*] last night 昨晚
+**vannacht** [*adv*] tonight, last night 今晚，昨晚
 
-**intussen** [*adv*] in the meantime 期间
+**tussendoor** [*adv*] in between 其间
 
-**achter** [*adv*] behind 在后面
+**erachter** [*adv*] behind (it, them) 在后面
 
-**ginder** [*adv*] there 那边
+**ginder** [*adv*] over there 那边
 
-**hoeheethetookalweer** [*adv*] what's it called again 那个谁；叫什么来着
+**tamelijk** [*adv*] rather 相当
 
-**best wel** [*adv*] rather 相当；挺
+**daarachter** [*adv*] behind it, behind them 在那后面
 
-**daarachter** [*adv*] behind it 在那后面
+**daarstraks** [*adv*] just now 刚才
 
-**vrijdagavond** [*adv*] on Friday evening 周五晚上
+**overheen** [*adv*] across, over 在...上面，越过
 
-**veel meer** [*adv*] much more 多得多
+**erom** [*adv*] about it 关于它
 
-**daarnet** [*adv*] a while ago 刚刚
+**morgenavond** [*adv*] tomorrow evening 明晚
 
-**onmiddellijk** [*adv*] immediately 立刻
+**langzamerhand** [*adv*] gradually 逐渐
 
-**zowat** [*adv*] more or less 差不多
+**ertussen** [*adv*] in between 在中间
 
-**een beetje** [*adv*] a bit 有点
+**eronder** [*adv*] below 在下面
+
+**ernaast** [*adv*] next to it, beside it 在旁边
+
+**weeral** [*adv*] again 再次
+
+**eromheen** [*adv*] around it 在它周围
+
+**omheen** [*adv*] around 周围
+
+**daarboven** [*adv*] above it 在上面
+
+**vanachter** [*adv*] from behind 从后面

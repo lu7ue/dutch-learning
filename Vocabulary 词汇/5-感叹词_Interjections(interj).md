@@ -6,74 +6,66 @@ Interjections (interj) 是感叹词，用来表达情绪或回应。主要用于
 
 ---
 
-**ja** [*interj*] yes 是；对
+**ja** [*interj*] yes 是
 
-**nee** [*interj*] no 不；不是
+**nee** [*interj*] no 不
 
 **oh** [*interj*] oh 哦
 
 **uh** [*interj*] er 呃
 
-**hè** [*interj*] right, isn't it? 对吧；不是吗
+**hè** [*interj*] ~ isn't it, don't I 是吗，对吧
 
-**weet je** [*interj*] you know 你知道吧；对吧
+**hoor** [*interj*] you know 你知道，对吧
 
-**goed** [*interj*] all right 好；行
+**ah** [*interj*] oh 哦
+
+**oké, OK** [*interj*] OK 好的
 
 **hé** [*interj*] ~ hey 嘿
 
-**kom** [*interj*] come on 来嘛；得了吧
+**allee** [*interj*] ~ come on 来吧，快点
 
-**zeker** [*interj*] sure 是的；当然
+**jawel** [*interj*] yes, indeed 是的，确实
 
-**o jee** [*interj*] oh dear 哎呀；天哪
+**goh** [*interj*] ~ gosh 天哪
 
-**ach** [*interj*] oh 唉；哎
+**ach** [*interj*] oh 啊
 
-**hm** [*interj*] hm 呃；哼（厌烦）
+**hu** [*interj*] ugh 呃
 
-**zeg** [*interj*] you know 哎；你呀（口语）
+**joh** [*interj*] ~ mate, you 哥们，你
 
 **sorry** [*interj*] sorry 对不起
 
-**goed zo** [*interj*] good 哦行；那好吧
+**awel** [*interj*] oh well 哦，好吧
 
-**oei** [*interj*] oops 哎呀（糟了）
+**oei** [*interj*] oops 哎哟
 
-**och** [*interj*] oh 哦；唉
+**och** [*interj*] oh 哦
 
-**ha** [*interj*] ha 哈；啊
+**ha** [*interj*] ah 哈
 
-**soit** [*interj*] anyway 总之；反正
+**enfin** [*interj*] in short, anyway 总之，好吧
 
-**ja ja** [*interj*] all right 嗯
+**hm** [*interj*] hmm 嗯
 
 **aha** [*interj*] aha 啊哈
 
-**eh** [*interj*] um 唉；嗯（犹豫）
+**hoezo** [*interj*] why 为什么
 
-**amaai** [*interj*] wow 哇；天哪
+**tja** [*interj*] well 嗯，好吧
 
-**kijk** [*interj*] look 好了；看吧
+**amai** [*interj*] ~ oh my (God) 哎呀，天哪
 
-**pfff** [*interj*] phew 唉（喘气/无语）
+**voilà** [*interj*] there you are 给你，好了
 
-**bah** [*interj*] yuck 呸；真恶心
+**pff** [*interj*] whew 呼，唉
 
-**wacht** [*interj*] wait 停；等等
+**bah** [*interj*] yuck 呸
 
-**oeps** [*interj*] oops 哎呀；糟了
+**ho** [*interj*] stop 停
+
+**jee** [*interj*] oh dear, oh no 哎呀，天哪
 
 **hoi** [*interj*] hi 嗨
-
-**euh** [*interj*] um （表语气）唔；呃
-
-**hey** [*interj*] hey 嘿；你好
-
-**toch** [*interj*] right 对
-
-**graag** [*interj*] with pleasure 我很喜欢；我喜欢
-
-**ik weet het niet** [*interj*] I don't know 我不知道
-
-**ik zie het** [*interj*] I see 我明白了；好的

@@ -10,38 +10,60 @@ Conjunctions (conj) 是连词，用来连接词、短语或句子。
 
 **en** [*conj*] and 和
 
-**als** [*conj*] when；if 当…时；如果
+**als** [*conj*] when 当...时
 
-**dat** [*conj*] that （连接词）…的事实
+**dat** [*conj*] that 那个（连词）
 
 **maar** [*conj*] but 但是
 
 **of** [*conj*] or 或者
 
+**dan** [*conj*] than 比
+
 **omdat** [*conj*] because 因为
 
-**zoals** [*conj*] as 像…一样；正如
+**doordat** [*conj*] because 因为
+
+**voordat** [*conj*] before 在...之前
+
+**zoals** [*conj*] as 如同
 
 **want** [*conj*] because 因为
 
-**toen** [*conj*] when 当…时
+**toen** [*conj*] when 当...时
 
-**terwijl** [*conj*] while 当…同时
+**terwijl** [*conj*] while 当...时
 
-**zodat** [*conj*] so that 以便；从而
+**zodat** [*conj*] so that 以便
 
-**wanneer** [*conj*] when 当…时
+**wanneer** [*conj*] when 当...时
 
-**nadat** [*conj*] after 在…之后
+**nadat** [*conj*] after 在...之后
 
-**hoewel** [*conj*] although 虽然；尽管
+**hoewel** [*conj*] although 虽然
 
-**alsof** [*conj*] as if 好像；仿佛
+**alsof** [*conj*] as if 好像
 
-**behalve** [*conj*] except 除了；除…之外
+**behalve** [*conj*] except 除了
 
-**doordat** [*conj*] because 由于；因为
+**tenzij** [*conj*] unless 除非
 
-**voordat** [*conj*] before 在…之前
+**ofwel** [*conj*] or 或者
 
-**alhoewel** [*conj*] although 虽然；尽管
+**evenals** [*conj*] as well as 以及
+
+**naarmate** [*conj*] as 随着
+
+**naarmate** [*conj*] as 随着
+
+**alvorens** [*conj*] before 在…之前
+
+**mits** [*conj*] provided that 只要
+
+**vermits** [*conj*] since 因为
+
+**eer** [*conj*] before 在…之前
+
+**gelijk** [*conj*] just as 就像
+
+**alhoewel** [*conj*] although 虽然

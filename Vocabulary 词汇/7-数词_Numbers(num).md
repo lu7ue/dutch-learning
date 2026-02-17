@@ -81,15 +81,37 @@ Numbers (num) 表示数量或顺序。包括基数词和序数词。
 
 ### 1.6 特殊数词
 
-1,000,000 miljoen  
-1.5 anderhalf
+**tienduizend** [*num*] ten thousand 一万
+
+**honderdduizend** [*num*] hundred thousand 十万
+
+**miljoen** [*num*] million 百万（1,000,000）
+
+**anderhalf** [*num*] one and a half 一个半（1.5）
 
 ## 2. 不定数量词（Indefinite Numerals）
 
-veel 很多  
-weinig 很少  
-zoveel 这么多  
-beide / allebei 两个都
+**veel** [*num*] much 许多
+
+**hoeveel** [*num*] how many, how much 多少
+
+**allebei** [*num*] both 两者
+
+**minder** [*num*] less 更少
+
+**meest** [*num*] most 大多数
+
+**meerder** [*num*] more 更多的
+
+**weinig** [*num*] little, few 很少
+
+**zoveel** [*num*] so much 那么多
+
+**beide** [*num*] both 两者
+
+**meer** [*num*] more 更多
+
+**minst** [*num*] least 最少的
 
 ## 3. 年份读法（Jaren）
 
